@@ -1,60 +1,26 @@
-<table>
-<tr>
-<td align="center">
+# Gurram Prem Sai
 
-<a href="mailto:premsaiachari1213@gmail.com">
-premsaiachari1213@gmail.com
-</a>
+Backend engineer at [AksharaPlus-LLC](https://github.com/AksharaPlus-LLC), Bengaluru. I build scalable backend systems and applications that use generative AI.
 
-</td>
+## Focus
 
-<td align="center">
+- Designing and building REST APIs and backend services in Python and Django
+- Integrating generative AI into production applications
+- Contributing to a shared codebase through pull requests and code review
 
-<a href="https://www.linkedin.com/in/g-prem-sai-739571236/">
-LinkedIn
-</a>
+## Technical skills
 
-</td>
-</tr>
+| Area | Tools |
+|---|---|
+| Backend | Python, Django, REST APIs |
+| AI | Generative AI integration |
+| Languages | Python, JavaScript, Java, C++, C, Dart |
+| Mobile | Flutter |
+| IoT and embedded | C++, sensor-based monitoring systems |
+| Workflow | Git, GitHub, pull requests, code review |
 
-<tr>
-<td align="center">
+## Contact
 
-<a href="https://github.com/premsai08">
-GitHub
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://portofoliopremsai.netlify.app/">
-My Portfolio
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/premsai08/premsai08/main/images.png" width="180">
-
-</td>
-
-<td align="center">
-
-<a href="https://stackoverflow.com/users/25582254/premsai">
-<img src="https://stackoverflow.com/users/flair/25582254.png?theme=dark" width="200">
-</a>
-
-<br><br>
-
-<a href="https://github.com/premsai08?tab=repositories">
-My Repositories
-</a>
-
-</td>
-</tr>
-
-</table>
+- Email: [premsaiachari1213@gmail.com](mailto:premsaiachari1213@gmail.com)
+- LinkedIn: [g-prem-sai-739571236](https://www.linkedin.com/in/g-prem-sai-739571236)
+- Portfolio: [gurrampremsai.vercel.app](https://gurrampremsai.vercel.app/)
