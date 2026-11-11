@@ -25,4 +25,4 @@ Python developer at [AksharaPlus-LLC](https://github.com/AksharaPlus-LLC), Benga
 - Email: [premsaiachari1213@gmail.com](mailto:premsaiachari1213@gmail.com)
 - Email: [premsai.achari@aksharaplus.com](mailto:premsai.achari@aksharaplus.com)
 - LinkedIn: [g-prem-sai-739571236](https://www.linkedin.com/in/g-prem-sai-739571236)
-- Portfolio: [gurrampremsai.vercel.app](https://gurrampremsai.vercel.app/)
+- Portfolio: [premsaiachari](https://gurrampremsai.vercel.app/)
