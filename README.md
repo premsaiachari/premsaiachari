@@ -17,7 +17,7 @@ Python developer at [AksharaPlus-LLC](https://github.com/AksharaPlus-LLC), Benga
 | Languages | Python, Java, JavaScript |
 | Backend | Django, REST APIs, GraphQL |
 | Databases and caching | MySQL, Redis |
-| Tools and DevOps | Git, GitHub, Docker, GitHub Actions, Linux, Google Cloud Run, Kurbentes|
+| Tools and DevOps | Git, GitHub, Docker, GitHub Actions, Linux, Google Cloud Run|
 | Testing | Unit testing, integration testing, functional testing, regression testing, debugging |
 
 ## Contact
